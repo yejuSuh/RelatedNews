@@ -1,0 +1,14 @@
+**/*.pem
+**/*.crt
+**/*.key
+**/*.env
+**/*.sqlite
+frontend/dist
+frontend/node_modules
+**/__pycache__/
+report/*
+!report/*.bib
+!report/*.tex
+!report/*.pdf
+!report/example.png
+!report/graph
